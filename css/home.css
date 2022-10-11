@@ -49,3 +49,9 @@
     flex-direction: column;
     align-items: center;
   }
+  .btn:hover
+  {
+    transform: translateZ(-3px);
+    box-shadow: 0px 4px 5px 1px #2f72bded;
+
+  }
