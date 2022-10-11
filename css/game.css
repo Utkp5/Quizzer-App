@@ -1,6 +1,10 @@
+body{background-color: #ecf5ff;}
 .container
 {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 #game
 {
@@ -8,13 +12,21 @@
 }
 .choice_container
 {
-
+    display: flex;
+    border: 2px solid;
+    margin: 10px 0px;
+    background: ghostwhite;
 }
 .choice_prefix
 {
-
+    margin: 0 0;
+    display: flex;
+    align-items: center;
+    background: darkorange;
+    margin-right: 25px;
+    padding: 0px 20px;
 }
 .choice_text
 {
-    
+
 }

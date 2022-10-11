@@ -10,12 +10,9 @@
     padding: 0;
     color: #333;
   }
-  h1 {
-    margin-bottom: 1rem;
-  }
-  
-  h1 {
+h1 {
     font-size: 5.4rem;
+    margin-bottom: 1rem;
     color: #56a5eb;
     margin-bottom: 5rem;
   }
